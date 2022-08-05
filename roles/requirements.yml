@@ -48,3 +48,4 @@
   name: opsta.pdns_recursor
 - src: opsta.coredns
 - src: opsta.etcd
+- src: puwanut.ansible_nginx
