@@ -3,5 +3,5 @@
   gather_facts: yes
   become: true
   roles:
-    - opsta.nginx
+    - puwanut.ansible_nginx
   environment: "{{ proxy_env | default({}) }}"
